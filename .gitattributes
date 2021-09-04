@@ -2,3 +2,4 @@
 * text=auto
 doc/* -linguist-detectable
 bin/* -linguist-detectable
+src/* linguist-detectable=true
