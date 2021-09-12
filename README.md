@@ -1,4 +1,4 @@
-# War
+# War-Card-Game
  
 This program simulates the War card game.
 
